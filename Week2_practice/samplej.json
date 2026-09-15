@@ -1,0 +1,30 @@
+{
+  "company": {
+    "name": "TechCorp",
+    "location": "New York",
+    "departments": {
+      "engineering": {
+        "manager": "Alice",
+        "teams": [
+          {
+            "name": "Backend",
+            "members": ["Bob", "Charlie"]
+          },
+          {
+            "name": "Frontend",
+            "members": ["Diana", "Ethan"]
+          }
+        ]
+      },
+      "hr": {
+        "manager": "Fiona",
+        "teams": [
+          {
+            "name": "Recruitment",
+            "members": ["George", "Hannah"]
+          }
+        ]
+      }
+    }
+  }
+}

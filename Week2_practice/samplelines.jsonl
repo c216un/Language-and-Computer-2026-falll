@@ -1,0 +1,5 @@
+{"id": 1, "name": "Alice", "scores": {"math": 90, "english": 85}}
+{"id": 2, "name": "Bob", "scores": {"math": 78, "english": 88}}
+{"id": 3, "name": "Charlie", "scores": {"math": 92, "english": 81}}
+{"id": 4, "name": "Diana", "scores": {"math": 85, "english": 95}}
+{"id": 5, "name": "Ethan", "scores": {"math": 80, "english": 89}}
